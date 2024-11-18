@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskScheduler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471cadda2014d22f431169ec5531f23fc5cd9ded")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskScheduler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskScheduler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
