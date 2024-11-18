@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}|EmbeddingOpenAI\\EmbeddingOpenAI.csproj|d:\\embeddingopenai\\embeddingopenai\\embeddingopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}|EmbeddingOpenAI\\EmbeddingOpenAI.csproj|solutionrelative:embeddingopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21A288A-9796-439E-B026-40260539C742}|TaskScheduler\\TaskScheduler.csproj|d:\\embeddingopenai\\embeddingopenai\\taskscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21A288A-9796-439E-B026-40260539C742}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\TaskScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Program.cs",
+              "ToolTip": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\TaskScheduler\\Program.cs",
+              "RelativeToolTip": "TaskScheduler\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:55:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\EmbeddingOpenAI\\Program.cs",
+              "RelativeDocumentMoniker": "EmbeddingOpenAI\\Program.cs",
+              "ToolTip": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\EmbeddingOpenAI\\Program.cs",
+              "RelativeToolTip": "EmbeddingOpenAI\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv2IAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:55:44.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

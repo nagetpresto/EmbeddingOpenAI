@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "EmbeddingOpenAI": {
+      "commandName": "Project"
+    }
+  }
+}

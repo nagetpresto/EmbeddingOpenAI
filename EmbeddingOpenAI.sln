@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddingOpenAI", "EmbeddingOpenAI\EmbeddingOpenAI.csproj", "{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskScheduler", "TaskScheduler\TaskScheduler.csproj", "{E21A288A-9796-439E-B026-40260539C742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21A288A-9796-439E-B026-40260539C742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21A288A-9796-439E-B026-40260539C742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21A288A-9796-439E-B026-40260539C742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21A288A-9796-439E-B026-40260539C742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812E4A20-1C30-4ABC-B4D6-5909A8E947D8}
+	EndGlobalSection
+EndGlobal
