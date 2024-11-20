@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmbeddingSearch": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
