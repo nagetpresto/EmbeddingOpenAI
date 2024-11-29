@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmbeddingSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073dc7c43415ae822a5712dbdf53463281511dd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4356d01ab3146a16fd51eb9eb63fdf563639516c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmbeddingSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmbeddingSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

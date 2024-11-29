@@ -60,7 +60,7 @@ class Program
                 Console.WriteLine($"batch: {batch}, offset: {offset}");
 
                 // collect catalog name
-                var textsBatch = catalogData.ConvertAll(item => item.Name);
+                var textsBatch = catalogData.ConvertAll(item => item.ProductName);
                 
                 // request embedding
                 var embeddings = await GetEmbeddingsAsync(apiKey, endpoint, textsBatch);
@@ -99,7 +99,7 @@ class Program
                         catalogItems.Add(new CatalogItem
                         {
                             ID = reader.GetInt32(0),
-                            Name = reader.GetString(1)
+                            ProductName = reader.GetString(1)
                         });
                     }
                 }
@@ -181,7 +181,7 @@ class Program
 public class CatalogItem
 {
     public int ID { get; set; }
-    public string Name { get; set; }
+    public string ProductName { get; set; }
 }
 
 public class EmbeddingsResponse
