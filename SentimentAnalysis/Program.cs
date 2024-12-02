@@ -48,7 +48,7 @@ class Program
     private static async Task ProcessBatchesAsync(SqlConnection connection, string apiKey, string endpointEmbedding, string endpointGPT4)
     {
         #region Input Parameter
-        var reply = "rpa lu jelek banget deh";
+        var reply = "rpa lu jelek";
         double threshold = 80;
 
         int offsetCatalog = 0;
@@ -158,7 +158,7 @@ class Program
                 var productKeywords = await GetProductKeywords(connection, productID);
                 var keywordsText = string.Join(",", productKeywords.ConvertAll(item => item.Keywords));
 
-                prompt = $"user reply: '{reply}' . construct a reply for negative reply sent by user using these keywords {keywordsText}. tell them that my company product is useful and how you can help them. make it short for social media reply, and at the end give this contact details sales@elistec.com. use the same language as the user reply but with formal style.";
+                prompt = $"user reply: '{reply}' . construct a reply for negative reply sent by user using these keywords {keywordsText}. tell them that my company and my company product is useful and how you can help them. make it short for social media reply, and at the end give this contact details sales@elistec.com. use the same language as the user reply but with formal style.";
 
                 Console.WriteLine("promt");
                 Console.WriteLine(prompt);
