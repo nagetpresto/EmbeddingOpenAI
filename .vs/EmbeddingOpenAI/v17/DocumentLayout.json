@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\",
+  "WorkspaceRootPath": "C:\\Users\\Bilqi\\OneDrive\\Desktop\\EmbeddingOpenAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF353E79-2238-4421-B6BD-CD7C7562E083}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\embeddingopenai\\embeddingopenai\\sentimentanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF353E79-2238-4421-B6BD-CD7C7562E083}|SentimentAnalysis\\SentimentAnalysis.csproj|c:\\users\\bilqi\\onedrive\\desktop\\embeddingopenai\\sentimentanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF353E79-2238-4421-B6BD-CD7C7562E083}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}|EmbeddingOpenAI\\EmbeddingOpenAI.csproj|d:\\embeddingopenai\\embeddingopenai\\embeddingopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{128AEC1E-00CF-414C-8EE4-7A3FB3076D72}|EmbeddingOpenAI\\EmbeddingOpenAI.csproj|solutionrelative:embeddingopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\EmbeddingOpenAI\\Program.cs",
-              "RelativeDocumentMoniker": "EmbeddingOpenAI\\Program.cs",
-              "ToolTip": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\EmbeddingOpenAI\\Program.cs",
-              "RelativeToolTip": "EmbeddingOpenAI\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFcAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T04:01:12.19Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\SentimentAnalysis\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bilqi\\OneDrive\\Desktop\\EmbeddingOpenAI\\SentimentAnalysis\\Program.cs",
               "RelativeDocumentMoniker": "SentimentAnalysis\\Program.cs",
-              "ToolTip": "D:\\EmbeddingOpenAI\\EmbeddingOpenAI\\SentimentAnalysis\\Program.cs",
+              "ToolTip": "C:\\Users\\Bilqi\\OneDrive\\Desktop\\EmbeddingOpenAI\\SentimentAnalysis\\Program.cs",
               "RelativeToolTip": "SentimentAnalysis\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAzwDIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAwwCEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T03:30:10.484Z",
+              "WhenOpened": "2024-12-10T11:22:03.581Z",
               "EditorCaption": ""
             }
           ]
